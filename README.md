@@ -8,5 +8,5 @@
 * 깃 허브도 배우고
 * 또 뭘 배우게 될까?
 
-![이미지](https://t1.daumcdn.net/brunch/service/user/32E9/image/BA2Qyx3O2oTyEOsXe2ZtE8cRqGk.JPG)
+![이미지](https://www.dailysecu.com/news/photo/202104/123449_145665_1147.png)
 
