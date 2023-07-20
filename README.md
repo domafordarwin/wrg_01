@@ -8,4 +8,5 @@
 * 깃 허브도 배우고
 * 또 뭘 배우게 될까?
 
-![강아지 그림]('https://t1.daumcdn.net/brunch/service/user/32E9/image/BA2Qyx3O2oTyEOsXe2ZtE8cRqGk.JPG')
+![이미지](https://t1.daumcdn.net/brunch/service/user/32E9/image/BA2Qyx3O2oTyEOsXe2ZtE8cRqGk.JPG)
+
